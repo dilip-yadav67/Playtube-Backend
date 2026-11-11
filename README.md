@@ -1,4 +1,4 @@
-# RangTube Backend (Node.js + Express + MongoDB)
+# PlayTube Backend (Node.js + Express + MongoDB)
 
 RangTube React frontend ke liye REST API. Field names (`ch`, `len`, `cat`, `age`, `c1`, `c2`) frontend ke `VIDEOS` data se match karte hain, to React mein bas data fetch karke wahi components chalte hain.
 
